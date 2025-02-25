@@ -9,8 +9,19 @@ This project aims to analyze student engagement and predict churn (dropout) for 
 │   ├── Cleaned_Preprocessed_Dataset_Week1.csv
 │   ├── excelerate_Student_Engagement_and_Churn_Analysis.ipynb
 │   ├── Week1_Feature_Engineering_Report_Shahid Khan.pdf
+├── Week 2 - Exploratory Data Analysis
+│   ├── Dataset_Week2.csv
+│   ├── EDA_Week2.ipynb
+│   ├── Week2 Report.pdf
 ```
-
+## 👥 Team Members
+-Shahid Khan
+-Mangesh Pawar
+-Janak Adhikari
+-Md Aijaz Ahmad
+-Rishika Nirala
+-Harsh Bajpay
+-Muhammad Sohaib
 
 ## 📈 Week 1: Data Cleaning and Feature Engineering
 ### Overview
@@ -28,3 +39,21 @@ In the first week, we focused on cleaning the raw dataset to ensure it was suita
 ### Tools & Libraries
 - Python (Pandas, NumPy, Seaborn)
 - Jupyter Notebook
+
+## 🔍 Week 2: Exploratory Data Analysis (EDA)
+### Overview
+In the second week, we conducted an in-depth Exploratory Data Analysis (EDA) to uncover patterns and insights within the cleaned dataset. This phase laid the foundation for hypothesis generation and feature selection for predictive modeling.
+
+### Key Analyses
+- **Demographic Insights**:
+  - Analyzed learner demographics like age, gender, and engagement patterns.
+  - Identified high engagement among specific age groups (18-28 years).
+- **Temporal Trends**:
+  - Seasonal analysis of engagement scores, sign-up trends, and engagement duration.
+  - Observed peak engagement in specific months (e.g., July) and days (e.g., Thursday).
+- **Advanced Visualizations**:
+  - Generated correlation heatmaps, PCA plots, and clustering (K-Means) to identify underlying data structures.
+  - Conducted cohort analysis to track engagement over time.
+
+### Tools & Libraries
+- Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn)
